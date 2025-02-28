@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="max-width: 100%;">
 
 
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=true" />](https://linkedin.com/in/yourprofile)
+[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=true" />](https://www.linkedin.com/in/takudzwa-mombe-58b40528b/)
 [<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&hover=true" />](mailto:your.mombejose@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Takue-Mombe&label=Visitors&color=brightgreen&style=for-the-badge)](https://github.com/Takue-Mombe)
